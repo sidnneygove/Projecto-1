@@ -1,2 +1,3 @@
 const mensagem=`Mercado Pago`;
-console.log(mensagem);
+const t= `Devedor`;
+console.log(mensagem, t);
